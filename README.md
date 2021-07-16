@@ -1,4 +1,4 @@
-# gatsby-starter-deck
+# Gatsby starter extension
 
 This project is hosted on 2 different platforms: 
 1. Gatsby Cloud: https://fireroadpresentationmain.gatsbyjs.io/
